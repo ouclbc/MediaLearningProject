@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MediaLearningProject</string>
+    <string name="picture">拍照</string>
+    <string name="description_info">信息</string>
+    <string name="camera_and_storage">应用需要相机和读写SD卡权限</string>
+</resources>
